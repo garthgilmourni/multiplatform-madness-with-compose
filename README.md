@@ -73,7 +73,9 @@ Below is a detailed description of each of the course projects, along with any s
 
 * **solutions/CalculatorDesktopSolution** - Sample implementation for *Desktop Calculator* (the first exercise)
 * **solutions/CalculatorDesktopTestingSolution** - The above solution with test cases added (the second exercise)
-* **solutions/StaffSeartchSolution** - Sample implementation for *Staff Search* (the fourth exercise)
+* **solutions/CalculatorDesktopViewModelSolution** - The above solution rewritten to use a ViewModel
+* **solutions/StaffSearchSolution** - Sample implementation for *Staff Search* (the fourth exercise)
+* **solutions/StaffSearchViewModelSolution** - The above solution rewritten to use a ViewModel
 * **solutions/CalculatorWebSolution** - Sample implementation for *Web Calculator* (the fifth exercise)
 * **solutions/CalculatorCombinedSolution** - Sample implementation for *Combined Calculator* (the sixth exercise)
 
